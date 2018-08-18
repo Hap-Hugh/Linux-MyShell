@@ -1,0 +1,2 @@
+myshell:myShell.c
+        gcc myShell.c -o myshell
